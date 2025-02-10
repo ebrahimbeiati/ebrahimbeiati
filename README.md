@@ -1,14 +1,19 @@
 # 💫 About Me:
 🚀 What I’m building:
 Scalable, user-friendly web apps with React, Node.js, and modern front-end frameworks. Also diving into cloud tools like AWS, Docker, and Terraform to streamline deployments.
+
 🤝 Who I’d love to collaborate with:
 Developers, designers, and teams are passionate about crafting impactful software—especially in full-stack dev, cloud integration, and UI/UX.
+
 🛠 What I need help with:
 Mastering advanced cloud architecture, automation, and DevOps—think CI/CD pipelines and infrastructure as code.
+
 📚 What I’m learning:
 Cloud tech (AWS, Docker, Terraform), responsive design with Tailwind CSS, plus sharpening my Python and Power BI skills for data analysis.
+
 💡 Ask me about:
 Full-stack development, cloud deployment, mentoring devs, and designing sleek, user-friendly interfaces.
+
 🎯 Fun fact:
 I started in petroleum engineering before jumping into tech! I also speak four languages (English, Persian, German, Turkish) and love how tech connects cultures.
 
