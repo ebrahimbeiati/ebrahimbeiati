@@ -1,21 +1,17 @@
-# 💫 About Me:
-🚀 What I’m building:
-Scalable, user-friendly web apps with React, Node.js, and modern front-end frameworks. Also diving into cloud tools like AWS, Docker, and Terraform to streamline deployments.
+🌍 Engineer Turned Developer | Full-Stack & Cloud Enthusiast
 
-🤝 Who I’d love to collaborate with:
-Developers, designers, and teams are passionate about crafting impactful software—especially in full-stack dev, cloud integration, and UI/UX.
+I build scalable, user-friendly web apps with React, Node.js, AWS, Docker & Terraform. Passionate about cloud automation, DevOps, and creating impactful software.
 
-🛠 What I need help with:
-Mastering advanced cloud architecture, automation, and DevOps—think CI/CD pipelines and infrastructure as code.
+🚀 What I Do:
 
-📚 What I’m learning:
-Cloud tech (AWS, Docker, Terraform), responsive design with Tailwind CSS, plus sharpening my Python and Power BI skills for data analysis.
+Develop fast, efficient full-stack applications
+Explore CI/CD, cloud infrastructure & DevOps
+Mentor and collaborate with passionate teams
+📚 Currently Learning:
+Advanced cloud architecture, Tailwind CSS, Python & Power BI.
 
-💡 Ask me about:
-Full-stack development, cloud deployment, mentoring devs, and designing sleek, user-friendly interfaces.
-
-🎯 Fun fact:
-I started in petroleum engineering before jumping into tech! I also speak four languages (English, Persian, German, Turkish) and love how tech connects cultures.
+🎯 My Story:
+From petroleum engineering to software, blending problem-solving with tech. I speak four languages and love how technology connects people worldwide.
 
 
 # 💻 Tech Stack:
