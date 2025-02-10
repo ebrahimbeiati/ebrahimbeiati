@@ -2,13 +2,8 @@
 
 I build scalable, user-friendly web apps with React, Node.js, AWS, Docker & Terraform. Passionate about cloud automation, DevOps, and creating impactful software.
 
-🚀 What I Do:
-
-Develop fast, efficient full-stack applications
-Explore CI/CD, cloud infrastructure & DevOps
-Mentor and collaborate with passionate teams
-📚 Currently Learning:
-Advanced cloud architecture, Tailwind CSS, Python & Power BI.
+🚀 What I Do: Develop fast, efficient full-stack applications, Explore CI/CD, cloud infrastructure & DevOps, collaborate with passionate teams
+📚 Currently Learning: Advanced cloud architecture, Python & Cybersecurity.
 
 🎯 My Story:
 From petroleum engineering to software, blending problem-solving with tech. I speak four languages and love how technology connects people worldwide.
