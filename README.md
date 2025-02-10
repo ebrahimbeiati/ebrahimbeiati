@@ -1,5 +1,16 @@
 # 💫 About Me:
-I am working on:<br>Building scalable, user-friendly web applications using modern front-end frameworks like React and back-end technologies such as Node.js. I am also exploring cloud infrastructure tools like AWS, Docker, and Terraform to enhance deployment efficiency.<br><br>I am looking to collaborate with:<br>Developers, designers, and teams passionate about creating impactful software solutions, particularly in full-stack development, cloud integration, and UI/UX design.<br><br>I am looking for help with:<br>Expanding my expertise in advanced cloud architecture and DevOps practices, especially around automation with CI/CD pipelines and infrastructure as code tools.<br><br>I am currently learning:<br>Advanced cloud technologies (AWS, Docker, Terraform), responsive design techniques with Tailwind CSS, and refining my skills in Python and Power BI for data analysis.<br><br>Ask me about:<br>Full-stack web development, cloud deployment strategies, mentoring junior developers, and implementing responsive and user-friendly interfaces.<br><br>Fun fact:<br>I transitioned from a background in petroleum engineering to software engineering, combining my problem-solving skills from engineering with my passion for technology. I speak four languages (English, Persian, German, and Turkish) and love exploring how technology can bridge communication gaps across cultures.
+🚀 What I’m building:
+Scalable, user-friendly web apps with React, Node.js, and modern front-end frameworks. Also diving into cloud tools like AWS, Docker, and Terraform to streamline deployments.
+🤝 Who I’d love to collaborate with:
+Developers, designers, and teams are passionate about crafting impactful software—especially in full-stack dev, cloud integration, and UI/UX.
+🛠 What I need help with:
+Mastering advanced cloud architecture, automation, and DevOps—think CI/CD pipelines and infrastructure as code.
+📚 What I’m learning:
+Cloud tech (AWS, Docker, Terraform), responsive design with Tailwind CSS, plus sharpening my Python and Power BI skills for data analysis.
+💡 Ask me about:
+Full-stack development, cloud deployment, mentoring devs, and designing sleek, user-friendly interfaces.
+🎯 Fun fact:
+I started in petroleum engineering before jumping into tech! I also speak four languages (English, Persian, German, Turkish) and love how tech connects cultures.
 
 
 # 💻 Tech Stack:
